@@ -30,7 +30,6 @@ listings: true
 numbersections: true
 link-citations: true
 bibliography: src/bibliography.bib
-biblio-title: Bibliography
 
 ---
 
