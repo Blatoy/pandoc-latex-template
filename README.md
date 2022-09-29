@@ -43,3 +43,12 @@ The two downside are that this setup does not work well if you have multiple pro
   - This allows to easily generate citation key, which does not seem possible without it
   - To make is easier to drag and drop for pandoc, in Zotero, go to `Edit > Preferences > Better BibTeX > Quick Copy` and set `Quick Copy Format` to `Pandoc Citation`
   - To make it auto-generate the `bibliography.bib` file, in Zotero, go to `File > Export Library` and set `Format` to `Better BibTeX`, tick `Keep updated`. You can then overwrite the existing `bibliography.bib` file in the `src` folder.
+  
+### Suggested VSCode extensions
+
+If you use VSCode to edit your files, the following extensions can be useful:
+
+- `LTeX`: a smart grammer/spell checker which takes LaTeX (and apparently Markdown) syntax into account
+- `LaTeX Workshop`: PDF preview, LaTeX autocomplete and highlighting (for tex files only)
+- `Markdown All in One`: MD preview, shortchuts, auto-format
+- `Markdown Table`: tool for markdown table
